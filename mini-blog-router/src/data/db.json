@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "title": "The TrumanShow",
+      "actor": "Jim Carrey",
+      "genre": "Thriller / Comedy",
+      "id": 2
+    },
+    {
+      "title": "Red Notice",
+      "actor": "Ryan Reynolds",
+      "genre": "Action",
+      "id": 3
+    },
+    {
+      "title": "BladeRunner 2050",
+      "actor": "Ryan Goshling",
+      "genre": "Action",
+      "id": 4
+    },
+    {
+      "title": "Sherlock Homes",
+      "actor": "Robert Downey Jr.",
+      "genre": "Mystery / Crime",
+      "id": 5
+    },
+    {
+      "title": "John Wick",
+      "actor": "Keanu Reeves",
+      "genre": "Action/Thriller",
+      "id": 6
+    },
+    {
+      "title": "Gladiator",
+      "actor": "Russell Crowe",
+      "genre": "Action/Adventure",
+      "id": 8
+    }
+  ]
+}
